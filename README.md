@@ -1,2 +1,2 @@
-# Codecept JS
- Visual Studio Code + Codecept JS - Iniciando Testes Automatizados
+# CodeceptJS-WebDriver
+ Visual Studio Code + Codecept JS + WebDriver
